@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fallout District Bot</title>
+</head>
+<body>
+    <h1>Welcome to Fallout District Bot Website!</h1>
+    <p>Your bot is online and serving Fallout District 💜</p>
+</body>
+</html>
